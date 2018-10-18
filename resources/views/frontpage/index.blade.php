@@ -122,7 +122,7 @@
 			
 			<div class="col-md-4">
 				<a href="images/1/img1.jpg?fit=crop&amp;fm=jpg&amp;h=700&amp;q=75&amp;w=1050" title="This is the description">
-					<img src="images/1/img.jpg?fit=crop&amp;fm=jpg&amp;h=700&amp;q=75&amp;w=1050" alt="" class="image-responsive">
+					<img src="images/1/img2.jpg?fit=crop&amp;fm=jpg&amp;h=700&amp;q=75&amp;w=1050" alt="" class="image-responsive">
 					<div class="description">
 						<span class="caption">This is <b>awesome</b></span> 
 						<span class="camera"><i class="fa fa-camera"></i></span>
