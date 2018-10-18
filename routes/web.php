@@ -18,7 +18,7 @@ Route::get('/', function () {
 
 
 Route::get('/admin.home', function () {
-    return view('admin.index');
+    return view('admin.dashboard');
 });
 
 Route::get('/student.home', function () {
