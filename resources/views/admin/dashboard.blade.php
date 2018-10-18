@@ -1,6 +1,5 @@
 @extends('admin.layout')
 @section('content')
-test123
     <div id="right-panel" class="right-panel">
 
        
