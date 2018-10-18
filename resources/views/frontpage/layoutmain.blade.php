@@ -68,10 +68,7 @@
 		<a href="#faq">FAQ</a>
 		</li> -->
 		<li>
-		<a href="#admin">Daftar Masuk <br>(Admin)</a>
-		</li>
-		<li>
-		<a href="#student">Daftar Masuk<br>(Pelatih)</a>
+		<a href="#admin">Login</a>
 		</li>
 		<li>
 		<a href="#contactarea">Contact</a>
@@ -186,21 +183,23 @@
 </section>
 
 
+
 <!-- <!- admin login
 	================================================== -->
-<section id="admin" class="parallax section" style="background-image: url(http://themepush.com/demo/runcharity/frontpage/img/1.jpg);"> 
+
+<section id="admin" class="parallax section" style="background-image: url(images/1/img2.jpg);opacity:1;">
 <div class="wrapsection">
-	<div class="parallax-overlay" style="background-color: #01b0d1;opacity:0.9;"></div>
-	<div class="container">
+	<div class="parallax-overlay"></div>
+	<div class= "" style="background-color: grey;">
 		<div class="row">
-			<div class="col-md-12">
-				<!-- Title -->
+			<div class="col-md-12 sol-sm-12">
 				<div class="maintitle">
-					<h3 class="section-title"><strong>LOG MASUK <span class="lighter">SEBAGAI</span></strong> STAF ILKKM</h3>
-
-
-					<center><div class="sufee-login d-flex align-content-center flex-wrap">
-				        <div class="container">
+					<h3 class="section-title">LOGIN</h3>
+				</div>
+			</div>
+		<div>
+		<div >
+				        <div class="container" style="width: 20%; position: left; ">
 				            <div class="login-content">
 				                <div class="login-logo">
 				                    <a href="index.html">
@@ -229,14 +228,12 @@
 				            </div>
 				        </div>
 				    </div>
-   			 	</center>
-				</div>
 			</div>
-
 		</div>
 	</div>
 </div>
 </section>
+
 
 <!-- FAQ
 	================================================== -->
