@@ -190,16 +190,13 @@
 <section id="admin" class="parallax section" style="background-image: url(images/1/img2.jpg);opacity:1;">
 <div class="wrapsection">
 	<div class="parallax-overlay"></div>
-	<div class= "" style="background-color: grey;">
 		<div class="row">
-			<div class="col-md-12 sol-sm-12">
+			<div class="col-md-5"  style="background-color: grey;">
 				<div class="maintitle">
 					<h3 class="section-title">LOGIN</h3>
-				</div>
-			</div>
-		<div>
-		<div >
-				        <div class="container" style="width: 20%; position: left; ">
+
+					<div >
+				        <div class="container" style="width: 100%; position: left; ">
 				            <div class="login-content">
 				                <div class="login-logo">
 				                    <a href="index.html">
@@ -228,78 +225,13 @@
 				            </div>
 				        </div>
 				    </div>
-			</div>
-		</div>
-	</div>
-</div>
-</section>
-
-
-<!-- FAQ
-	================================================== -->
- <section id="student" class="section">
-<div class="wrapsection">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 sol-sm-12">
-				<div class="maintitle">
-					<h3 class="section-title">LOG MASUK<span class="wow bounceInRight"> SEBAGAI PELATIH</span></h3>
-					
-					<center><div class="sufee-login d-flex align-content-center flex-wrap">
-				        <div class="container">
-				            <div class="login-content">
-				                <div class="login-logo">
-				                    <a href="index.html">
-				                        <img class="align-content" src="" alt="">
-				                    </a>
-				                </div>
-				                <div class="login-form">
-				                    <form>
-				                        <div class="form-group">
-				                            <label>KATANAMA</label>
-				                            <input type="email" class="form-control" placeholder="">
-				                        </div>
-				                        <div class="form-group">
-				                            <label>KATALALUAN</label>
-				                            <input type="password" class="form-control" placeholder="">
-				                        </div>
-
-				                         <a href='{{asset("student.home")}}' target="_blank"> Log masuk </a>
-				                        <div class="checkbox">
-				                            <label>
-				                                <input type="checkbox"> Remember Me
-				                            </label>
-				                         </div>
-				                    </form>
-				                </div>
-				            </div>
-				        </div>
-				    </div>
-   			 	</center>
 				</div>
 			</div>
 		</div>
-	</div>
 </div>
 </section>
-<!-- Random
-	================================================== -->
-<!-- <section class="whitecolor parallax section" style="background-image: url(http://themepush.com/demo/runcharity/frontpage/img/5.jpg);"> 
-<div class="wrapsection">
-	<div class="container">
-	<div class="row">
-		<div class="col-md-12 sol-sm-12">
-			<div class="maintitle">
-				<h3 class="section-title justtitle">Charity <span class="wow flipInX">&amp; love</span> are the same</h3>
-				<p class="lead bottom0">
-					 Fusce fermentum lectus id turpis suscipit, ut egestas magna volutpat. Donec a purus tellus. Nunc ut dolor eu est gravida auctor quis vitae.
-				</p>
-			</div>
-		</div>
-	</div>
-	</div>
-</div>
-</section> -->
+
+
 <!-- Contact
 	================================================== -->
 <section id="contactarea" class="parallax section" style="background-image: url(http://themepush.com/demo/runcharity/frontpage/img/map.png);">
@@ -381,3 +313,73 @@
 <script src="frontpage/js/common.js"></script>
 </body>
 </html>
+
+
+
+
+
+<!-- FAQ
+	================================================== -->
+ <!-- <section id="student" class="section">
+<div class="wrapsection">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 sol-sm-12">
+				<div class="maintitle">
+					<h3 class="section-title">LOG MASUK<span class="wow bounceInRight"> SEBAGAI PELATIH</span></h3>
+					
+					<center><div class="sufee-login d-flex align-content-center flex-wrap">
+				        <div class="container">
+				            <div class="login-content">
+				                <div class="login-logo">
+				                    <a href="index.html">
+				                        <img class="align-content" src="" alt="">
+				                    </a>
+				                </div>
+				                <div class="login-form">
+				                    <form>
+				                        <div class="form-group">
+				                            <label>KATANAMA</label>
+				                            <input type="email" class="form-control" placeholder="">
+				                        </div>
+				                        <div class="form-group">
+				                            <label>KATALALUAN</label>
+				                            <input type="password" class="form-control" placeholder="">
+				                        </div>
+
+				                         <a href='{{asset("student.home")}}' target="_blank"> Log masuk </a>
+				                        <div class="checkbox">
+				                            <label>
+				                                <input type="checkbox"> Remember Me
+				                            </label>
+				                         </div>
+				                    </form>
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+   			 	</center>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section> -->
+<!-- Random
+	================================================== -->
+<!-- <section class="whitecolor parallax section" style="background-image: url(http://themepush.com/demo/runcharity/frontpage/img/5.jpg);"> 
+<div class="wrapsection">
+	<div class="container">
+	<div class="row">
+		<div class="col-md-12 sol-sm-12">
+			<div class="maintitle">
+				<h3 class="section-title justtitle">Charity <span class="wow flipInX">&amp; love</span> are the same</h3>
+				<p class="lead bottom0">
+					 Fusce fermentum lectus id turpis suscipit, ut egestas magna volutpat. Donec a purus tellus. Nunc ut dolor eu est gravida auctor quis vitae.
+				</p>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</section> -->
